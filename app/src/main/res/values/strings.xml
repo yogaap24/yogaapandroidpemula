@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Novel Favorit</string>
+    <string name="name_novel">Judul Novel</string>
+    <string name="content_main">Daftar 10 Novel Favorit Saya</string>
+    <string name="content_rank">Value rank</string>
+    <string name="overview">overview</string>
+    <string name="university_identity">Novel Detail</string>
+    <string name="university_overview">Novel Sinopsis</string>
+    <string name="content_overview">content overview</string>
+    <string name="content_identity">content identity</string>
+    <string name="title_identity">Jumlah Halaman \nTanggal Terbit \nISBN \nBahasa \nPenerbit \nBerat \nLebar \nPanjang</string>
+    <string name="name_me">Yoga Agung Prasetio</string>
+    <string name="email_me">yogaspenma48@gmail.com</string>
+    <string name="rank">Indonesia Rank \nWord Rank </string>
+</resources>
